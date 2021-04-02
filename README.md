@@ -7,3 +7,5 @@
 ### <a href="https://github.com/IrinaCherkova/Projects/tree/main/Games_rates">Games_rates</a> - <b> Изучение закономерностей, определяющих успешность игр на основе исторических данных о продажах компьютерных игр (Pandas, NumPy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез)</b>
 
 ### <a href="https://github.com/IrinaCherkova/Projects/tree/main/Public_Catering"> Public_Catering </a> - <b> Исследования рынка общепита в Москве для принятия решения об открытии нового заведения (Pandas, Seaborn, Plotly, визуализация данных)</b>
+
+### <a href="https://github.com/IrinaCherkova/Projects/tree/main/Website_attendance"> Website_attendance </a> - <b> Проведен анализ данных от Яндекс.Афиши целью оптимизации маркетинговых затрат. Рассчитаны метрики LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI (Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики)</b>
