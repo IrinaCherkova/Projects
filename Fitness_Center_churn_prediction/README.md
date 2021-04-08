@@ -8,7 +8,4 @@
 портреты пользователей: выделены наиболее яркие группы, охарактеризованы их
 основные свойства; проанализированы основные признаки, наиболее сильно влияющие
 на отток. 
-(Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация)
-
-#KMeans, #Machine Learning, #дендрограмма, #RandomForestClassifier,
-#LogisticRegression
+<b>Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация </b>
