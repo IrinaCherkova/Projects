@@ -7,7 +7,7 @@
     <th>инструменты</th>
   </tr>
   <tr>
-    <td>Прогнозирование вероятности оттока пользователей для фитнес-центров</td>
+    <td>Прогнозирование вероятности оттока пользователей для фитнес-центров <a href="https://github.com/IrinaCherkova/Projects/tree/main/Fitness_Center_churn_prediction">Fitness_Center_churn_prediction</a></td>
     <td><a href="https://github.com/IrinaCherkova/Projects/tree/main/Fitness_Center_churn_prediction">Fitness_Center_churn_prediction</a> </td>
     <td>Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация</td>
   </tr>
