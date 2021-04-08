@@ -1,5 +1,35 @@
 # Репозиторий проектов, выполненных на курсе "Аналитик Данных" Яндекс.Практикум
 
+<h2>Basic HTML Table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+
 ### <a href="https://github.com/IrinaCherkova/Projects/tree/main/Fitness_Center_churn_prediction">Fitness_Center_churn_prediction</a> - <b>Прогнозирование вероятности оттока пользователей для фитнес-центров (Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация)</b>
 
 ### <a href="https://github.com/IrinaCherkova/Projects/tree/main/Mobile_application_AAB_test">Mobile_application_AAB_test</a> - <b> Анализ пользовательского поведения в мобильном приложении, анализ результатов А/В теста введения новых шрифтов (A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных)</b>
