@@ -7,7 +7,7 @@
     <th>инструменты</th>
   </tr>
   <tr>
-    <td>Прогнозирование вероятности оттока пользователей для фитнес-центров <a href="https://github.com/IrinaCherkova/Projects/tree/main/Fitness_Center_churn_prediction">Fitness_Center_churn_prediction</a></td>
+    <td>Прогнозирование вероятности оттока пользователей для фитнес-центров, ссылка: <a href="https://github.com/IrinaCherkova/Projects/tree/main/Fitness_Center_churn_prediction">Fitness_Center_churn_prediction</a></td>
     <td>С помощью машинного обучения спрогнозирована вероятность
 оттока (на уровне следующего месяца) для каждого клиента; сформированы типичные
 портреты пользователей: выделены наиболее яркие группы, охарактеризованы их
@@ -16,7 +16,7 @@
     <td>Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация</td>
   </tr>
   <tr>
-    <td>Анализ пользовательского поведения в мобильном приложении, анализ результатов А/В теста введения новых шрифтов <a href="https://github.com/IrinaCherkova/Projects/tree/main/Mobile_application_AAB_test"> Mobile_application_AAB_test </a> </td>
+    <td>Анализ пользовательского поведения в мобильном приложении, анализ результатов А/В теста введения новых шрифтов, ссылка: <a href="https://github.com/IrinaCherkova/Projects/tree/main/Mobile_application_AAB_test"> Mobile_application_AAB_test </a> </td>
     <td>
 В данном проекте были изучены принципы событийной аналитики. Построена
 воронка продаж, исследован путь пользователей до покупки. Проанализированы
@@ -25,7 +25,7 @@
 Выявлено, что новый шрифт значительно не повлияет на поведение пользователей.</td>
     <td>A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных</td>
   <tr>
-    <td>Изучение закономерностей, определяющих успешность игр на основе исторических данных о продажах компьютерных игр <a href="https://github.com/IrinaCherkova/Projects/tree/main/Games_rates">Games_rates</a></td>
+    <td>Изучение закономерностей, определяющих успешность игр на основе исторических данных о продажах компьютерных игр, ссылка: <a href="https://github.com/IrinaCherkova/Projects/tree/main/Games_rates">Games_rates</a></td>
     <td>Выявлены параметры, определяющие успешность игры в разных регионах мира. На
 основании этого подготовлен отчет для магазина компьютерных игр для планирования
 рекламных кампаний. Проведена предобработка данных, анализ. Выбран актуальный
@@ -35,13 +35,13 @@
     <td>Pandas, NumPy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез</td>
   </tr>
     <tr>
-    <td>Исследование рынка общепита в Москве для принятия решения об открытии нового заведения <a href="https://github.com/IrinaCherkova/Projects/tree/main/Public_Catering"> Public_Catering </a></td>
+    <td>Исследование рынка общепита в Москве для принятия решения об открытии нового заведения, ссылка: <a href="https://github.com/IrinaCherkova/Projects/tree/main/Public_Catering"> Public_Catering </a></td>
     <td>исследован рынок общественного пистания для выбора места для нового кафе и типа, количества посадочных мест, район, выбор относительно развития сети. По результатам анализа подготовлена
 презентация для инвесторов с рекомендациями.  </td>
     <td>Pandas, Seaborn, Plotly, визуализация данных</td>
   </tr>
     <tr>
-    <td>Оптимизация маркетинговых затрат в Яндекс.Афише <a href="https://github.com/IrinaCherkova/Projects/tree/main/Website_attendance"> Website_attendance</a> </td>
+    <td>Оптимизация маркетинговых затрат в Яндекс.Афише, ссылка: <a href="https://github.com/IrinaCherkova/Projects/tree/main/Website_attendance"> Website_attendance</a> </td>
     <td>На основе данных о посещениях сайта Яндекс.Афиши проведено исследование того, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается</td>
     <td>LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики</td>
   </tr>
