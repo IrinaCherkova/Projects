@@ -2,13 +2,17 @@
 
 <table style="width:100%">
   <tr>
-    <th> Проект</th>
-    <th>ссылка</th> 
+    <th>Проект</th>
+    <th>описание</th> 
     <th>инструменты</th>
   </tr>
   <tr>
     <td>Прогнозирование вероятности оттока пользователей для фитнес-центров <a href="https://github.com/IrinaCherkova/Projects/tree/main/Fitness_Center_churn_prediction">Fitness_Center_churn_prediction</a></td>
-    <td><a href="https://github.com/IrinaCherkova/Projects/tree/main/Fitness_Center_churn_prediction">Fitness_Center_churn_prediction</a> </td>
+    <td>С помощью машинного обучения спрогнозирована вероятность
+оттока (на уровне следующего месяца) для каждого клиента; сформированы типичные
+портреты пользователей: выделены наиболее яркие группы, охарактеризованы их
+основные свойства; проанализированы основные признаки, наиболее сильно влияющие
+на отток.</td>
     <td>Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация</td>
   </tr>
   <tr>
