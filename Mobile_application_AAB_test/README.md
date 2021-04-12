@@ -1,6 +1,6 @@
 # Анализ пользовательского поведения в мобильном приложении
 
-Если проект не отображается и появляется ошибка "Reload", прошу вставить URL проекта в https://nbviewer.jupyter.org/
+Если проект не отображается и появляется ошибка "Reload", прошу вставить URL проекта (https://github.com/IrinaCherkova/Projects/blob/main/Mobile_application_AAB_test/AAB_Test_of_Mobile_application.ipynb) в https://nbviewer.jupyter.org/
 
  <b>Задача:</b> На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования 
 
