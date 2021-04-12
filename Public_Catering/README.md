@@ -1,6 +1,6 @@
 # Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
 
-Если проект не отображается и появляется ошибка "Reload", прошу вставить URL проекта в https://nbviewer.jupyter.org/
+Если проект не отображается и появляется ошибка "Reload", прошу вставить URL проекта (https://github.com/IrinaCherkova/Projects/blob/main/Public_Catering/Moscow_Public_Catering_Analysis.ipynb) в https://nbviewer.jupyter.org/
 
  <b>Задача:</b> Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов
 
