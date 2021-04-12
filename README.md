@@ -7,7 +7,7 @@
     <th>инструменты</th>
   </tr>
   <tr>
-    <td>Прогнозирование вероятности оттока пользователей для фитнес-центров, ссылка: <a href="https://github.com/IrinaCherkova/Projects/tree/main/Fitness_Center_churn_prediction">Fitness_Center_churn_prediction</a></td>
+    <td><a href="https://github.com/IrinaCherkova/Projects/tree/main/Fitness_Center_churn_prediction">Прогнозирование вероятности оттока пользователей для фитнес-центров</a></td>
     <td>С помощью машинного обучения спрогнозирована вероятность
 оттока (на уровне следующего месяца) для каждого клиента; сформированы типичные
 портреты пользователей: выделены наиболее яркие группы, охарактеризованы их
