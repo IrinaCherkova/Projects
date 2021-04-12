@@ -1,6 +1,6 @@
 # Прогнозирование вероятности оттока пользователей для фитнес-центров
 
-Если проект не отображается и появляется ошибка "Reload", прошу вставить URL проекта в https://nbviewer.jupyter.org/
+Если проект не отображается и появляется ошибка "Reload", прошу вставить URL проекта (https://github.com/IrinaCherkova/Projects/blob/main/Fitness_Center_churn_prediction/Fitness_Center_Customers_churn_predictions.ipynb) в https://nbviewer.jupyter.org/
 
  <b>Задача:</b> на основе данных о посетителях сети фитнес-центров спрогнозировать вероятность оттока для каждого клиента в следующем месяце, сформировать с помощью кластеризации портреты пользователей
 
